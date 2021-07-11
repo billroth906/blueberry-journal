@@ -1,0 +1,114 @@
+{
+  "main": {
+    "id": "60fc36f49df7ab08",
+    "type": "split",
+    "children": [
+      {
+        "id": "7810be1d449d5c5a",
+        "type": "split",
+        "children": [
+          {
+            "id": "0f311ea9846e3e75",
+            "type": "leaf",
+            "dimension": 50.055991041433366,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New Discoveries.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "eefaaff427223a83",
+            "type": "leaf",
+            "dimension": 49.94400895856663,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New Discoveries.md",
+                "mode": "preview"
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0bd31f74101dbfcf",
+    "type": "split",
+    "children": [
+      {
+        "id": "57a5afdf87ac7185",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77d0c365531c1a55",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "73e5ef32904ba204",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "624a4ec3b46e8924",
+    "type": "split",
+    "children": [
+      {
+        "id": "041e6e87d7fd18f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19b0f5f5072aa0d2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "New Discoveries.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0f311ea9846e3e75",
+  "lastOpenFiles": [
+    "New Discoveries.md",
+    "Untitled.md"
+  ]
+}

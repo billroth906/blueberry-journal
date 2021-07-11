@@ -1,0 +1,15 @@
+---
+layout: post
+title: "New Discoveries"
+date: 2021-07-10 23:00:00 -0400
+categories: sdc
+---
+The past few days have been full of adventure in the JS realm. To start out with, I'm trying to come up with a better system for taking notes than a plain old Google Spreadsheet. I've settled on the Markdown format, given its ubiquity in Readme files. Spun up a GitHub Pages repository to keep those files in order and give the semblance of organization. Eventually I hope to employ more and more of the fancy Markdown formatting. But for now I'm happy to be going down the road.
+
+I'm still trying to figure out Docker. Have not gotten it up and running on my local machine yet, but it is at least downloaded and installed. I'm wondering if I have set out backwards in getting this API together. Should I have started with a Docker Node and two Docker databases and then made repositories out of them? How many Docker containers fit in a Git repository? Still much to ponder.
+
+Postgres comes highly acclaimed, and in dabbling with it, I'm beginning to see why. There's a sense of danger that comes with using something like MySQL and never knowing if you're keeping too much character space unused or if you'll have a use case that needs more than provided. I was flabbergasted to find that Postgres has a "text" data type (with variable unlimited length), and that futhermore, the docs advertise that "there is no performance difference among these three types" of character types, and that it goes on to recommend using "text" becuase it is usually fastest. <https://www.postgresql.org/docs/9.5/datatype-character.html> To make things even better, I had heard that JSON was supported by Postgres, but I come to find that arrays are supported as well. Foreign keys are assigned by just the single word, 'REQUIRES.' Yeah, I'm having a blast with Postgres. And it's nice to see Mongoose again too, but I have a feeling I know what database direction I'm going to go.
+
+A little side ditty that I got out of the way this week as well, was to get a functional replacement going for websequencediagrams. <https://websequencediagrams.com> I really really have loved using the WSD site in the past, but it drives me crazy when my diagram gets too big and it starts squaking at me to switch to Premium. The price is INSANE at $15 per month. And I'd realized previously that WSD was built on older open source stuff. So I homebrewed a nice copy of mscgen and figured out the very minor syntax differences between WSD and MSC. Turns out that somebody even wrote an extension to support MSC in VS-Code. Sweet! So now I have all the functionality of WSD, for $0 per month!
+
+Testing is looking interesting too. It seems that just about every documentation link and Google search ends up putting Jest together with Supertest. <https://www.npmjs.com/package/supertest> So I've got that going, with a test sucessful at the moment. I'm a little bit sad to leave the React world due to the fact that I was breaking new ground with Enzyme recently, but I'm at the point where I'm just excited to get more and more testing experience. Someday, hopefully, it will become second nature.
