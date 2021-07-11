@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Discoveries.md",
+                "file": "2021-07-10-New-Discoveries.md",
                 "mode": "source"
               }
             }
@@ -24,11 +24,8 @@
             "type": "leaf",
             "dimension": 49.94400895856663,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New Discoveries.md",
-                "mode": "preview"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Discoveries.md",
+                "file": "2021-07-10-New-Discoveries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +105,7 @@
   },
   "active": "0f311ea9846e3e75",
   "lastOpenFiles": [
+    "2021-07-10-New-Discoveries.md",
     "New Discoveries.md",
     "Untitled.md"
   ]
