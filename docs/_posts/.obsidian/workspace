@@ -4,32 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7810be1d449d5c5a",
-        "type": "split",
-        "children": [
-          {
-            "id": "0f311ea9846e3e75",
-            "type": "leaf",
-            "dimension": 50.055991041433366,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-07-10-New-Discoveries.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "eefaaff427223a83",
-            "type": "leaf",
-            "dimension": 49.94400895856663,
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
+        "id": "771220c45d58025a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2021-07-12-Primary-Database.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -85,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-07-10-New-Discoveries.md",
+                "file": "2021-07-12-Primary-Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,8 +86,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0f311ea9846e3e75",
+  "active": "771220c45d58025a",
   "lastOpenFiles": [
+    "2021-07-12-Primary-Database.md",
+    "markdown-cheat-sheet.md",
+    "2021-07-10-New-Discoveries 1.md",
     "2021-07-10-New-Discoveries.md",
     "New Discoveries.md",
     "Untitled.md"
