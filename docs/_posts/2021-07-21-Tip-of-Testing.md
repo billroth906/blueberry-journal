@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Making the Simple Complex and then Trying to Make it Simple Again"
+title: "Tip of Testing"
 date: 2021-07-21 23:00:00 -0400
 categories: sdc
 ---
