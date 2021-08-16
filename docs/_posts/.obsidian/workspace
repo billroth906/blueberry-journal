@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-08-07-Gettin-Faster.md",
+            "file": "2021-08-15-Lots-Docks.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-08-07-Gettin-Faster.md",
+                "file": "2021-08-15-Lots-Docks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "771220c45d58025a",
   "lastOpenFiles": [
+    "2021-08-07-Gettin-Faster 1.md",
+    "2021-08-07-Gettin-Faster.md",
     "2021-08-04-Pretty-Powerful 1.md",
     "2021-08-04-Pretty-Powerful.md",
     "markdown-cheat-sheet.md",
@@ -95,8 +97,6 @@
     "2021-08-02-Lethargy.md",
     "20210802-RunTimes1.png",
     "2021-07-21-Tip-of-Testing 1.md",
-    "2021-07-21-Tip-of-Testing.md",
-    "2021-07-18-Simple-Complex 1.md",
-    "2021-07-18-Simple-Complex.md"
+    "2021-07-21-Tip-of-Testing.md"
   ]
 }
